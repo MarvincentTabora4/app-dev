@@ -1,6 +1,6 @@
 # app-dev
 My first repository
 
-Avenger's
-Insidious
-Spider-man
+1. Avenger's
+2. Insidious
+3. Spider-man
